@@ -98,7 +98,7 @@ public interface BaseService<T> {
     
     
     /**
-     * 通过对象查询分页
+     * 通过对象来查询分页
      * @param entity
      * @return
      */
